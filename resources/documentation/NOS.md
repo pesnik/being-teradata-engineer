@@ -1,6 +1,6 @@
-# Creating an OnPrem LakeHouse with Teradata NOS and MinIO
-## NOS Error Resolution
-### Native Object Store user error: Error type: 1 http code: 400 lib code: 99 exception: Unable to connect to endpoint (URL not found in DNS lookup).
+## Creating an OnPrem LakeHouse with Teradata NOS and MinIO
+### NOS Error Resolution
+#### Native Object Store user error: Error type: 1 http code: 400 lib code: 99 exception: Unable to connect to endpoint (URL not found in DNS lookup).
 ```sh
 # INSIDE TERADATA VM TERMINAL
 dbscontrol
